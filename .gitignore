@@ -19,4 +19,3 @@ node_modules/
 # Ignore Gradle build output directory
 build
 package-lock.json
-external-chaincode/
